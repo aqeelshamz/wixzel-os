@@ -1,6 +1,6 @@
 # Wixzel OS
 
-**Wixzel OS** - One of my best Visual Basic projects, created during the summer vacation when I was in 9th grade (2018). It was an exciting and challenging project that I worked on with great passion.
+**Wixzel OS** - One of my best Visual Basic projects, created during the summer vacation when I was in 9th grade (April - May 2018). It was an exciting and challenging project that I worked on with great passion.
 
 Unfortunately, my hard disk was wiped due to issues with my PC, and I didn’t have any backup of the project files. At that time, I wasn’t familiar with GitHub, so everything was stored locally and lost during the incident. 
 
