@@ -29,3 +29,5 @@ This project remains a memorable milestone in my journey as a developer!
 <img width="2256" height="1504" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/e0e1149d-3d42-4bdb-9fd3-9d6aa852573d" />
 <img width="2256" height="1504" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/164aaf8a-fb60-4a91-ac01-393c94efedae" />
 <img width="2256" height="1504" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/e50cf997-35b6-4124-9908-01bdd589fcc4" />
+<img width="2256" height="1504" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/24ed56fa-aec2-4b56-9a36-d356713c1ea0" />
+
