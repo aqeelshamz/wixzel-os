@@ -6,6 +6,17 @@ Unfortunately, my hard disk was wiped due to issues with my PC, and I didn’t h
 
 Thankfully, I managed to recover the `setup.exe` file from one of my sent emails. Additionally, for some reason, I had shared screenshots of the project via email, and I was able to retrieve those as well. Here are the recovered screenshots showcasing parts of the project:
 
+### Recovered source code (2026)
+
+The compiled program in `Application Files/` turned out to be an unobfuscated .NET Debug build, so I decompiled it with ILSpy. The result is in [`source/`](source):
+
+- `Wixzel_OS_Almond_1._0/`: all 70 forms (boot, lock screen, home, settings, browser, mail, camera, paint, media player, word processor, QR generator and more), with their logic and layouts
+- `*.resx`: each form's embedded resources
+- `recovered-images/`: 726 images extracted from those resources (wallpapers, icons, animations)
+- `lib/`: the third-party DLLs the project references
+
+The decompiler outputs C#, not the original VB.NET, and the comments and local variable names were lost with the `.pdb` file. Building it needs Visual Studio on Windows (.NET Framework 4.5).
+
 ### Screenshots from the project
 ![image](https://user-images.githubusercontent.com/69390743/199302356-b497c9d9-aabd-4021-95a2-3fff3c6c56ef.png)
 ![image](https://user-images.githubusercontent.com/69390743/199301767-004be881-f022-4b1c-8469-d7677eb1c39c.png)
